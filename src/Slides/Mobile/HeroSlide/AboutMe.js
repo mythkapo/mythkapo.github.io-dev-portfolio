@@ -43,8 +43,8 @@ class AboutMe extends Component {
     return (
       <Container>
         <AboutMeDescription>
-          Azure Cloud Architect who resolve business challenges with cloud technology
-          Serious passion for automation and cloud native arhitecture.
+        Certified Azure Cloud Architect specializing in DevOps & cloud technology. 
+        Significant experience managing large-scale system implementations
         </AboutMeDescription>
       </Container>
     );
