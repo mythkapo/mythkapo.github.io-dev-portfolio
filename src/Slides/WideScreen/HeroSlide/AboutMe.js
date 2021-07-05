@@ -85,8 +85,8 @@ class AboutMe extends Component {
       <Container>
         <AboutMeTitle scrollPercent={scrollPercent}>ABOUT ME</AboutMeTitle>
         <AboutMeDescription>
-        Front-end developer who cares deeply about user experience.
-        Serious passion for UI design and new technologies.
+        Certified Azure Cloud Architect specializing in Cloud Technology. 
+        Significant experience managing large-scale system implementations
         </AboutMeDescription>
       </Container>
     );

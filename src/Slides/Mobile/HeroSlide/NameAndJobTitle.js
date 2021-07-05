@@ -60,7 +60,7 @@ class NameAndJobTitle extends Component {
     return (
       <Container>
         <Name>Ka Po Ng</Name>
-        <Title>Senior Technical Analyst | DevOps | Azure Cloud Developer</Title>
+        <Title>DevOps & Azure Solution Architect</Title>
       </Container>
     );
   }
